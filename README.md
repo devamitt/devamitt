@@ -123,15 +123,6 @@ I'm an MCA student and aspiring Full-Stack Developer who enjoys turning ideas in
 
 
 
-## 📈 GitHub Contributions
-
-Check out my GitHub contribution activity and pinned projects on my profile:
-
-[![GitHub Profile](https://img.shields.io/badge/View-GitHub%20Contributions-181717?style=for-the-badge&logo=github)](https://github.com/devamitt)
-
-
-
-
 ## 🎯 Current Focus
 
 - Building and deploying end-to-end MERN applications
