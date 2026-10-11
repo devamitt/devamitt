@@ -121,11 +121,16 @@ I'm an MCA student and aspiring Full-Stack Developer who enjoys turning ideas in
 
 </div>
 
-## 📈 Contribution Activity
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devamitt&bg_color=0B1020&color=E5E7EB&line=38BDF8&point=22D3EE&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
-</div>
+
+## 📈 GitHub Contributions
+
+Check out my GitHub contribution activity and pinned projects on my profile:
+
+[![GitHub Profile](https://img.shields.io/badge/View-GitHub%20Contributions-181717?style=for-the-badge&logo=github)](https://github.com/devamitt)
+
+
+
 
 ## 🎯 Current Focus
 
@@ -148,6 +153,7 @@ I'm an MCA student and aspiring Full-Stack Developer who enjoys turning ideas in
 <a href="mailto:amsh2356@gmail.com">
   <img src="https://img.shields.io/badge/Email-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
+
 
 </div>
 
