@@ -9,7 +9,7 @@
 </a>
 
 <p>
-  <a href="https://github.com/amitsharma235663">
+  <a href="https://github.com/devamitt">
     <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
   <!-- Replace YOUR_LINKEDIN_USERNAME with your actual LinkedIn username. -->
@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
   </a>
   <!-- Replace YOUR_PORTFOLIO_URL with your deployed portfolio URL. -->
-  <a href="https://YOUR_PORTFOLIO_URL">
+  <a href="https://amitportfolio22.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website" />
   </a>
 </p>
@@ -100,7 +100,7 @@ I'm an MCA student and aspiring Full-Stack Developer who enjoys turning ideas in
       <p>A personal finance tracker with categorized transactions, monthly summaries, and visual spending insights.</p>
       <p><strong>Stack:</strong> React · Node.js · MongoDB · Chart.js</p>
       <p>
-        <a href="https://github.com/amitsharma235663/personal-finance-dashboard">Repository</a>
+        <a href="https://github.com/devamit/personal-finance-dashboard">Repository</a>
         ·
         <a href="https://YOUR_FINANCE_DEMO_URL">Live Demo</a>
       </p>
@@ -112,19 +112,19 @@ I'm an MCA student and aspiring Full-Stack Developer who enjoys turning ideas in
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=amitsharma235663&show_icons=true&hide_border=true&bg_color=0B1020&title_color=38BDF8&text_color=E5E7EB&icon_color=22D3EE&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitsharma235663&layout=compact&hide_border=true&bg_color=0B1020&title_color=38BDF8&text_color=E5E7EB" alt="Most used languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=devamitt&show_icons=true&hide_border=true&bg_color=0B1020&title_color=38BDF8&text_color=E5E7EB&icon_color=22D3EE&rank_icon=github" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devamitt&layout=compact&hide_border=true&bg_color=0B1020&title_color=38BDF8&text_color=E5E7EB" alt="Most used languages" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=amitsharma235663&hide_border=true&background=0B1020&ring=38BDF8&fire=22D3EE&currStreakLabel=E5E7EB&sideLabels=E5E7EB&dates=9CA3AF" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=devamitt&hide_border=true&background=0B1020&ring=38BDF8&fire=22D3EE&currStreakLabel=E5E7EB&sideLabels=E5E7EB&dates=9CA3AF" alt="GitHub contribution streak" />
 
 </div>
 
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amitsharma235663&bg_color=0B1020&color=E5E7EB&line=38BDF8&point=22D3EE&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devamitt&bg_color=0B1020&color=E5E7EB&line=38BDF8&point=22D3EE&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
 </div>
 
 ## 🎯 Current Focus
@@ -139,13 +139,13 @@ I'm an MCA student and aspiring Full-Stack Developer who enjoys turning ideas in
 
 <div align="center">
 
-<a href="https://github.com/amitsharma235663">
+<a href="https://github.com/devamitt">
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:amsh2356@gmail.com">
   <img src="https://img.shields.io/badge/Email-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
